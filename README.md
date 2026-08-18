@@ -128,8 +128,12 @@ KPIs, customer status distribution, and side-by-side comparison panels (All Cust
 **Page 2 — Churn Patterns**
 Churn by tenure stage, churn rate by contract type, average tenure before churn by contract, and top 5 cities by churn rate — establishing *when* and *where* churn concentrates.
 
+![Churn Patterns](assets/2-churn-patterns.png)
+
 **Page 3 — Services and Reasons**
 Phone/Internet service comparison, churn rate by internet type, and churn reason breakdown — the evidentiary layer explaining *why* customers leave.
+
+![Services and Reasons](assets/3-services-and-reasons.png)
 
 ---
 
