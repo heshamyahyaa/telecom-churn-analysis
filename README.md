@@ -168,7 +168,7 @@ Phone/Internet service comparison, churn rate by internet type, and churn reason
 
 ## 🛠️ Tools Used
 
-Power BI Desktop · Power Query (M) · DAX
+Power BI · Power Query (M) · DAX
 
 ---
 
