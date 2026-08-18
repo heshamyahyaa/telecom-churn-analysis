@@ -123,7 +123,10 @@ Contract type describes a service commitment, not a point in the customer's time
 ## 📊 Dashboard Structure (Who → When → Why)
 
 **Page 1 — Overview**
+
 KPIs, customer status distribution, and side-by-side comparison panels (All Customers vs. Churned Customers) across marital status, dependents, and age group.
+
+![Dashboard Preview](assets/1-overview.png)
 
 **Page 2 — Churn Patterns**
 
